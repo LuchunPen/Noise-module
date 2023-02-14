@@ -1,4 +1,9 @@
 /*
+Copyright (c) Luchunpen.
+Date: 02/06/2016 13:32
+*/
+
+/*
  * OpenSimplex (Simplectic) Noise in Java.
  * by Kurt Spencer
  *

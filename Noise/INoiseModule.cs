@@ -1,3 +1,8 @@
+/*
+Copyright (c) Luchunpen.
+Date: 02.06.2016 16:10:52
+*/
+
 namespace Nano3.Noise
 {
     public enum NoiseQuality: byte
